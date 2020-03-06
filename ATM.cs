@@ -25,7 +25,7 @@ namespace CSF1Homework
 
                 if (accountNum == hardcodeAccountNum)
                 {
-                    Console.WriteLine("Yay, you have access!");
+                    //Console.WriteLine("Yay, you have access!");
                     for (int j = 0; j < 3; j++)
                     {
                         Console.Write("Please enter the PIN: ");
