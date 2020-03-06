@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSF1Homework.FruitLoop3</StartupObject>
+    <StartupObject>CSF1Homework.Powers</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,9 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Counting.cs" />
     <Compile Include="FruitLoop1.cs" />
     <Compile Include="FruitLoop2.cs" />
     <Compile Include="FruitLoop3.cs" />
+    <Compile Include="Powers.cs" />
     <Compile Include="Variables.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
