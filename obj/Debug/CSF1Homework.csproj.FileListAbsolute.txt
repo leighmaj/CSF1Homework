@@ -1,0 +1,7 @@
+C:\Users\leighann.majkowski\Documents\Visual Studio 2017\Projects\CSF1Homework\CSF1Homework\bin\Debug\CSF1Homework.exe.config
+C:\Users\leighann.majkowski\Documents\Visual Studio 2017\Projects\CSF1Homework\CSF1Homework\bin\Debug\CSF1Homework.exe
+C:\Users\leighann.majkowski\Documents\Visual Studio 2017\Projects\CSF1Homework\CSF1Homework\bin\Debug\CSF1Homework.pdb
+C:\Users\leighann.majkowski\Documents\Visual Studio 2017\Projects\CSF1Homework\CSF1Homework\obj\Debug\CSF1Homework.csprojAssemblyReference.cache
+C:\Users\leighann.majkowski\Documents\Visual Studio 2017\Projects\CSF1Homework\CSF1Homework\obj\Debug\CSF1Homework.csproj.CoreCompileInputs.cache
+C:\Users\leighann.majkowski\Documents\Visual Studio 2017\Projects\CSF1Homework\CSF1Homework\obj\Debug\CSF1Homework.exe
+C:\Users\leighann.majkowski\Documents\Visual Studio 2017\Projects\CSF1Homework\CSF1Homework\obj\Debug\CSF1Homework.pdb
