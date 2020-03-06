@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSF1Homework.TempConverter</StartupObject>
+    <StartupObject>CSF1Homework.Login</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,7 @@
     <Compile Include="FruitLoop3.cs" />
     <Compile Include="Grades.cs" />
     <Compile Include="Interest.cs" />
+    <Compile Include="Login.cs" />
     <Compile Include="MadLib.cs" />
     <Compile Include="MinMaxAvg.cs" />
     <Compile Include="Powers.cs" />
